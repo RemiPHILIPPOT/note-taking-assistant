@@ -16,3 +16,11 @@ Ce projet est une application de prise de notes utilisant React pour l'interface
 -   **React :** Pour construire l'interface utilisateur.
 -   **TensorFlow.js :** Pour les fonctionnalités d'IA simples (prévu pour des futures améliorations).
 -   **CSS :** Pour le design et la mise en page modernes.
+
+## Déploiement
+
+Ce projet est déployé sur Netlify et est accessible via le lien suivant :
+
+[Note-Taking Assistant sur Netlify](https://note-taking-assistant.netlify.app)
+
+N'hésitez pas à visiter le lien pour voir l'application en ligne et explorer ses fonctionnalités.
